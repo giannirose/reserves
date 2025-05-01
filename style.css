@@ -1,0 +1,98 @@
+:root {
+  --lightGrey: #E8E8E8;
+  --darkGrey: #606060;
+  --lightGreen: #E4FFE4;
+  --myWhite: #f2f2f2;
+  --myBlack: #020202;
+}
+
+.category-head {
+  background-color: var(--lightGrey);
+  height: 2rem;
+  font-size: 1rem;
+}
+
+.ff-cell-color {
+  background-color: var(--lightGreen);
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+}
+
+th,
+td {
+  padding: .25rem;
+  border: 1px solid var(--lightGrey);
+  width: 5.5rem;
+}
+
+.cash-flow th,
+.cash-flow td {
+  width: 8rem;
+}
+
+thead {
+  background-color: var(--darkGrey);
+  color: var(--myWhite);
+  font-size: 1rem;
+
+}
+
+#totalRow {
+  font-weight: bold;
+  background-color: var(--lightGrey);
+  height: 2.5rem;
+}
+
+#totalRow td {
+  border: 1px solid var(--myWhite);
+}
+
+tr {
+  height: 2rem;
+}
+
+
+
+p {
+  max-width: 150ch;
+}
+
+
+thead th:nth-child(1),
+tbody th:not(.category-head) {
+  width: 12rem;
+}
+
+
+.cash-flow thead th:nth-child(1),
+.cash-flow tbody th:not(.category-head) {
+  width: 5rem;
+}
+
+.cash-flow tr:nth-child(even) {
+  background-color: #e6e6e6;
+
+}
+
+.cash-flow th,
+.cash-flow td {
+  width: 7rem;
+}
+
+.cash-flow thead {
+  font-size: 1rem;
+}
+
+.categorized-components thead th:nth-child(1) {
+  width: 13rem;
+}
+
+.reserves-table thead th:nth-child(1) {
+  padding-inline: 3rem;
+}
