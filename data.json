@@ -1,0 +1,910 @@
+{
+  "headline": "Categorized Components",
+  "inflationRate": 0.03,
+  "taxableRate": 0.15,
+  "currentYear": 2025,
+  "initialAnnualContribution": 72080,
+  "initialAnnualInterest": 1059,
+  "initialProjectEndingReserves": 318423,
+  "Electrical": {
+    "Electrical System Maintenance": [
+      {
+        "date-in-service": 2013,
+        "useful-life": 10,
+        "adjustment": 3,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 3000000
+      }
+    ],
+    "Electrical System Sub-Panels-Replace(1)": [
+      {
+        "date-in-service": 2024,
+        "useful-life": 35,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 7780000
+      }
+    ],
+    "Electrical System Sub-Panels-Replace(2)": [
+      {
+        "date-in-service": 2023,
+        "useful-life": 35,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 6020000
+      }
+    ],
+    "Lighting-Exterior-Garage": [
+      {
+        "date-in-service": 2016,
+        "useful-life": 20,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 500000
+      }
+    ],
+    "Lighting-Exterior-Pole-Mounted": [
+      {
+        "date-in-service": 2016,
+        "useful-life": 25,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 250000
+      }
+    ],
+    "Lighting-Interior-2nd-13th-Floors": [
+      {
+        "date-in-service": 2017,
+        "useful-life": 15,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 1252800
+      }
+    ]
+  },
+  "Pavement": {
+    "Asphalt Pavement Clean and Seal": [
+      {
+        "date-in-service": 2021,
+        "useful-life": 3,
+        "adjustment": 1,
+        "qualifier": 1,
+        "quantity": 3660,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 54
+      }
+    ],
+    "Asphalt Pavement-Resurface": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 40,
+        "adjustment": 24,
+        "qualifier": 1,
+        "quantity": 3660,
+        "quantity-defined": "",
+        "unit-cost": 350
+      }
+    ],
+    "Concrete Pavement-Repair Allowance": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 10,
+        "adjustment": 50,
+        "qualifier": ".06",
+        "quantity": 3380,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 1250
+      }
+    ],
+    "Concrete Sidewalks-Replacement Allowance": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 40,
+        "adjustment": 19,
+        "qualifier": 1,
+        "quantity": 3380,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 1200
+      }
+    ]
+  },
+  "Security": {
+    "DVR Security Cameras": [
+      {
+        "date-in-service": 2014,
+        "useful-life": 8,
+        "adjustment": 3,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 500000
+      }
+    ],
+    "Entrance Access Controls - Replace": [
+      {
+        "date-in-service": 2017,
+        "useful-life": 5,
+        "adjustment": 3,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 800000
+      }
+    ],
+    "Security Lighting - Replace": [
+      {
+        "date-in-service": 2014,
+        "useful-life": 18,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 800000
+      }
+    ]
+  },
+  "Elevators": {
+    "Elevator Car Flooring - Replace": [
+      {
+        "date-in-service": 2021,
+        "useful-life": 7,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 600000
+      }
+    ],
+    "Elevator Car Update - Interior": [
+      {
+        "date-in-service": 2014,
+        "useful-life": 18,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 2,
+        "quantity-defined": "",
+        "unit-cost": 450000
+      }
+    ],
+    "Elevator Modernization - Unfunded": [
+      {
+        "date-in-service": 2015,
+        "useful-life": 35,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 2,
+        "quantity-defined": "",
+        "unit-cost": ""
+      }
+    ]
+  },
+  "Building Enclosure": {
+    "Exterior Walls - Aggregate - Clean & Seal": [
+      {
+        "date-in-service": 1999,
+        "useful-life": 20,
+        "adjustment": 8,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 2500000
+      }
+    ]
+  },
+  "Coatings & Sealants": {
+    "Exterior Paint - Concrete Walls": [
+      {
+        "date-in-service": 1999,
+        "useful-life": 17,
+        "adjustment": 11,
+        "qualifier": 1,
+        "quantity": 55000,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 250
+      }
+    ],
+    "Exterior Paint - Parking Garage": [
+      {
+        "date-in-service": 1999,
+        "useful-life": 20,
+        "adjustment": 8,
+        "qualifier": 1,
+        "quantity": 17500,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 250
+      }
+    ]
+  },
+  "Fire Suppression - Notification": {
+    "Fire Alarm Control Panel": [
+      {
+        "date-in-service": 2006,
+        "useful-life": 15,
+        "adjustment": 5,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 350000
+      }
+    ],
+    "Fire Alarm Notification Devices": [
+      {
+        "date-in-service": 2006,
+        "useful-life": 25,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 750000
+      }
+    ],
+    "Fire Alarm Power Supply": [
+      {
+        "date-in-service": 2006,
+        "useful-life": 10,
+        "adjustment": 10,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 250000
+      }
+    ],
+    "Fire Alarms - Replace - 2nd-13th Floors": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 20,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 12,
+        "quantity-defined": "",
+        "unit-cost": 90000
+      }
+    ],
+    "Fire Suppression System- NFPA Maintenance Protocol": [
+      {
+        "date-in-service": 2022,
+        "useful-life": 10,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 1000000
+      }
+    ],
+    "Water Riser Check Valves - Unfunded ": [
+      {
+        "date-in-service": 2024,
+        "useful-life": 35,
+        "adjustment": "",
+        "qualifier": "",
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": ""
+      }
+    ]
+  },
+  "Windows/Doors": {
+    "Exterior Doors - Commercial Space": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 30,
+        "adjustment": 29,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 600000
+      }
+    ],
+    "Exterior Doors - East Entrance": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 20,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 250000
+      }
+    ],
+    "Exterior Doors - North Stair Tower Entrance": [
+      {
+        "date-in-service": 2016,
+        "useful-life": 20,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 342900
+      }
+    ],
+    "Exterior Doors - South Entrance": [
+      {
+        "date-in-service": 2016,
+        "useful-life": 30,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 950000
+      }
+    ],
+    "Exterior Doors- South Entrance- Maintenance": [
+      {
+        "date-in-service": 2017,
+        "useful-life": 5,
+        "adjustment": 3,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 55000
+      }
+    ],
+    "Interior Doors- Stairwells- 2nd-13th Floors": [
+      {
+        "date-in-service": 2016,
+        "useful-life": 5,
+        "adjustment": 5,
+        "qualifier": 0.50,
+        "quantity": 30,
+        "quantity-defined": "",
+        "unit-cost": 135000
+      }
+    ],
+    "Storefront Enclosures — Commercial Space - Replace": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 30,
+        "adjustment": 30,
+        "qualifier": 1,
+        "quantity": 980,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 5000
+      }
+    ],
+    "Storefront Enclosures - Repair": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 5,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 250000
+      }
+    ]
+  },
+  "Mechanical - HVAC": {
+    "Achieve AC with Heat Pump - Replace - Unfunded": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 15,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": ""
+      }
+    ],
+    "Building Ventilation Controls - Replace": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 15,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 900000
+      }
+    ],
+    "Building Ventilation - Vent Cleaning - North Side": [
+      {
+        "date-in-service": 2002,
+        "useful-life": 25,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 2500000
+      }
+    ],
+    "Building Ventilation - Vent Cleaning - South Side": [
+      {
+        "date-in-service": 2002,
+        "useful-life": 25,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 1200000
+      }
+    ],
+    "Elevator Machine Room Heat Pump": [
+      {
+        "date-in-service": 2014,
+        "useful-life": 10,
+        "adjustment": 1,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 900000
+      }
+    ]
+  },
+  "Interior Finishes": {
+    "Flooring- Carpet Corridors- 2nd-13th Floors": [
+      {
+        "date-in-service": 2016,
+        "useful-life": 20,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 7510,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 550
+      }
+    ],
+    "Flooring- Commercial Space- Replace": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 5,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 450000
+      }
+    ],
+    "Flooring- Resilient Sheet- Lobby/Entrances": [
+      {
+        "date-in-service": 2016,
+        "useful-life": 10,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 470,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 2500
+      }
+    ],
+    "Flooring- Resilient- 1st Floor North Hall": [
+      {
+        "date-in-service": 2016,
+        "useful-life": 15,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": "552",
+        "quantity-defined": "sq/ft",
+        "unit-cost": 882
+      }
+    ],
+    "Interior Ceilings- 1st Floor": [
+      {
+        "date-in-service": 2021,
+        "useful-life": 10,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 100000
+      }
+    ],
+    "Interior Ceilings- 2nd-13th Floors": [
+      {
+        "date-in-service": 2021,
+        "useful-life": 10,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 12,
+        "quantity-defined": "",
+        "unit-cost": 50000
+      }
+    ],
+    "Interior Handrails": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 50,
+        "adjustment": 14,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 175000
+      }
+    ],
+    "Interior Paint Maintenance- 2nd-13th Floors": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 12,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 12,
+        "quantity-defined": "",
+        "unit-cost": 137500
+      }
+    ],
+    "Interior Paint- 2nd-13th Floors": [
+      {
+        "date-in-service": 2008,
+        "useful-life": 24,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 12,
+        "quantity-defined": "",
+        "unit-cost": 400000
+      }
+    ],
+    "Interior- Paint Corridors- 1st Floor": [
+      {
+        "date-in-service": 2017,
+        "useful-life": 5,
+        "adjustment": 3,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 305000
+      }
+    ],
+    "Interior Paint- Corridors, Stairwells": [
+      {
+        "date-in-service": 2002,
+        "useful-life": 30,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 2,
+        "quantity-defined": "",
+        "unit-cost": 2250000
+      }
+    ],
+    "Interior Renovation- Lobby & Association Office": [
+      {
+        "date-in-service": 2011,
+        "useful-life": 20,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 1823700
+      }
+    ]
+  },
+  "Landscape/Irrigation": {
+    "Irrigation System Modernization": [
+      {
+        "date-in-service": 2015,
+        "useful-life": 10,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 500000
+      }
+    ],
+    "Tree Maintenance": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 5,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 200000
+      }
+    ]
+  },
+  "Mailboxes/Signage": {
+    "Mailbox Array- Replace": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 30,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 750000
+      }
+    ]
+  },
+  "Mechanical- Plumbing": {
+    "Domestic Hot Water Boilers": [
+      {
+        "date-in-service": 2015,
+        "useful-life": 10,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 2,
+        "quantity-defined": "",
+        "unit-cost": 1650000
+      }
+    ],
+    "Supplemental Plumbing Allowance": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 15,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 10000000
+      }
+    ]
+  },
+  "Waterproofing": {
+    "Awning Drainage- Downspouts": [
+      {
+        "date-in-service": 1996,
+        "useful-life": 30,
+        "adjustment": 2,
+        "qualifier": 1,
+        "quantity": 120,
+        "quantity-defined": "Lineal Feet",
+        "unit-cost": 1250
+      }
+    ],
+    "Awning Drainage- Gutters": [
+      {
+        "date-in-service": 1996,
+        "useful-life": 30,
+        "adjustment": 2,
+        "qualifier": 1,
+        "quantity": 125,
+        "quantity-defined": "Lineal Feet",
+        "unit-cost": 1050
+      }
+    ],
+    "Garage Lower Ramps: Re-surface and Seal": [
+      {
+        "date-in-service": 2019,
+        "useful-life": 10,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 2,
+        "quantity-defined": "",
+        "unit-cost": 350000
+      }
+    ],
+    "Garage Upper Deck- Maintenance": [
+      {
+        "date-in-service": 2017,
+        "useful-life": 10,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 1055000
+      }
+    ],
+    "Garage Upper Ramps- Re-surface and Seal": [
+      {
+        "date-in-service": 2024,
+        "useful-life": 10,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 2,
+        "quantity-defined": "",
+        "unit-cost": 350000
+      }
+    ],
+    "Garage Whell Stops- Replace- Unfunded": [
+      {
+        "date-in-service": 2022,
+        "useful-life": 35,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 0
+      }
+    ],
+    "Garage- Maintenance & Upkeep": [
+      {
+        "date-in-service": 2019,
+        "useful-life": 10,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 1000000
+      }
+    ],
+    "Roof Anchor System- Certification": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 2,
+        "adjustment": 3,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 500000
+      }
+    ],
+    "Roof Awning- Repair": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 10,
+        "adjustment": 49,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 250000
+      }
+    ],
+    "Roof Awning- Replace": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 30,
+        "adjustment": 31,
+        "qualifier": 1,
+        "quantity": 740,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 2500
+      }
+    ],
+    "Roof Maintenance- Allowance": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 10,
+        "adjustment": 1,
+        "qualifier": 1,
+        "quantity": 10000,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 200
+      }
+    ],
+    "Roof Membrane- 12th Floor Terrace/Porches - Unfunded": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 20,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": ""
+      }
+    ],
+    "Roof Membrane- 2nd Floor Patios": [
+      {
+        "date-in-service": 2020,
+        "useful-life": 10,
+        "adjustment": 1,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 2800000
+      }
+    ],
+    "Roof Replace- Tower": [
+      {
+        "date-in-service": 2006,
+        "useful-life": 20,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 8100,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 2100
+      }
+    ],
+    "Roof- East Portico": [
+      {
+        "date-in-service": 2010,
+        "useful-life": 20,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 485,
+        "quantity-defined": "sq/ft",
+        "unit-cost": 1200
+      }
+    ]
+  },
+  "Specialty Equipment": {
+    "ADA Automatic Door Operators- East/North": [
+      {
+        "date-in-service": 2018,
+        "useful-life": 15,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 2,
+        "quantity-defined": "each",
+        "unit-cost": 400000
+      }
+    ],
+    "Bicycle Racks- Replace": [
+      {
+        "date-in-service": 1966,
+        "useful-life": 50,
+        "adjustment": 14,
+        "qualifier": 1,
+        "quantity": 5,
+        "quantity-defined": "each",
+        "unit-cost": 21000
+      }
+    ]
+  },
+  "Fencing & Gates": {
+    "Exterior Paint- Fencing- Welded Metal": [
+      {
+        "date-in-service": 2006,
+        "useful-life": 10,
+        "adjustment": 10,
+        "qualifier": 1,
+        "quantity": 230,
+        "quantity-defined": "Lineal Feet",
+        "unit-cost": 826
+      }
+    ],
+    "Fencing- Garage Gates- Roll-up": [
+      {
+        "date-in-service": 2002,
+        "useful-life": 20,
+        "adjustment": 3,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 3000000
+      }
+    ],
+    "Fencing- Welded Metal": [
+      {
+        "date-in-service": 2006,
+        "useful-life": 40,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 230,
+        "quantity-defined": "Lineal Feet",
+        "unit-cost": 12000
+      }
+    ],
+    "Garage Access Gate Operator- Replace": [
+      {
+        "date-in-service": 2003,
+        "useful-life": 10,
+        "adjustment": 12,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 500000
+      }
+    ],
+    "Garage Access Gate- Replace": [
+      {
+        "date-in-service": 2003,
+        "useful-life": 25,
+        "adjustment": 0,
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 1000000
+      }
+    ],
+    "Office Equipment Allowance": [
+      {
+        "date-in-service": 2022,
+        "useful-life": 3,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 200000
+      }
+    ],
+    "Office Furniture Allowance": [
+      {
+        "date-in-service": 2022,
+        "useful-life": 5,
+        "adjustment": "",
+        "qualifier": 1,
+        "quantity": 1,
+        "quantity-defined": "",
+        "unit-cost": 300000
+      }
+    ]
+  }
+}
