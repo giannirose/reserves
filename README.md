@@ -1,5 +1,5 @@
 # reserves
-Create a reserves study calculator for expenses over 30 years
+Create a reserves study calculator- a 30-year reserves study typical for an HOA
 ## JSON Files
 There is one key .json file for the calculator- the data.json file.
 
